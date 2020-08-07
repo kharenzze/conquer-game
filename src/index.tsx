@@ -1,7 +1,7 @@
 import * as pc from 'playcanvas'
 
 const canvas = document.getElementById('app')
-const app = new pc.Application(canvas)
+const app = new pc.Application(canvas, {})
 // fill the available space at full resolution
 app.setCanvasFillMode(pc.FILLMODE_FILL_WINDOW);
 app.setCanvasResolution(pc.RESOLUTION_AUTO);

@@ -4513,7 +4513,7 @@ pako@~1.0.5:
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.11.tgz#6c9599d340d54dfd3946380252a35705a6b992bf"
   integrity sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==
 
-parcel@^2.0.0-beta.1:
+parcel@next:
   version "2.0.0-beta.1"
   resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.0.0-beta.1.tgz#7b23be0217da198f0e8f0d14f0107d8d938074dd"
   integrity sha512-Z2tzZoDws7q+99ihjpd3WX09BTao2miTk+S9URJXRJkVxxgoZSQJ+uwtxcosoDWwS6zv4RAXxtEMmiyMeaCuMQ==
@@ -4633,6 +4633,11 @@ picomatch@^2.0.5:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.2.tgz#21f333e9b6b8eaff02468f5146ea406d345f4dad"
   integrity sha512-q0M/9eZHzmr0AulXyPwNfZjtwZ/RBZlbN3K3CErVrk50T2ASYI7Bye0EvekFY3IP1Nt2DHu0re+V2ZHIpMkuWg==
+
+playcanvas@^1.32.4:
+  version "1.32.4"
+  resolved "https://registry.yarnpkg.com/playcanvas/-/playcanvas-1.32.4.tgz#1d1c4a266dcd3db5c33411ce0d51a871bdcdd95c"
+  integrity sha512-VwJq0Lq450CIHvIEvIihaK9XWkTWQ0zwjnJ97+q+v44C3AXRKujXBK6351RNyeqUFVI77+pMzDUI8cKs0s59pg==
 
 please-upgrade-node@^3.2.0:
   version "3.2.0"
